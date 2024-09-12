@@ -113,3 +113,4 @@ c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.
 c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.0\app.Tests.pdb
 c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.0\app.Tests.genruntimeconfig.cache
 c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.0\ref\app.Tests.dll
+c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.0\app.Tests.sourcelink.json
