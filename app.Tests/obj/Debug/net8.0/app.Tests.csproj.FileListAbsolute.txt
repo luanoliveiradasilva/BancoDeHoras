@@ -114,3 +114,7 @@ c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.
 c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.0\app.Tests.genruntimeconfig.cache
 c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.0\ref\app.Tests.dll
 c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\obj\Debug\net8.0\app.Tests.sourcelink.json
+c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\bin\Debug\net8.0\MySqlConnector.dll
+c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+c:\Users\luann\Documents\Project Software\BancoDeHoras\app.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

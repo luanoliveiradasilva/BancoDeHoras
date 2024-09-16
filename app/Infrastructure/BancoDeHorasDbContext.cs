@@ -6,9 +6,9 @@ namespace app.Infrastructure
     public class BancoDeHorasDbContext(DbContextOptions options) : DbContext(options)
     {
 
-        public DbSet<Funcionarios> Filmes { get; set; }
-        public DbSet<RegistrosDeHoras> Diretores { get; set; }
-        public DbSet<Atividades> Generos { get; set; }
+        public DbSet<Funcionarios> Funcionarios { get; set; }
+        public DbSet<RegistrosDeHoras> RegistrosDeHoras { get; set; }
+        public DbSet<Atividades> Atividades { get; set; }
 
     }
 }
